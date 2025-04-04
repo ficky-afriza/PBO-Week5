@@ -28,7 +28,7 @@ class BangunDatar {
 
 
 
-public class Hitung {
+public class Latihan2 {
 
     static float Pi = 3.14f;
 
